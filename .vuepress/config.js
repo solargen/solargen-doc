@@ -53,7 +53,7 @@ function genGuideSidebar(isZh) {
         {
             title: isZh ? "爱购商城" : "AIGOU",
             collapsable: false,
-            children: ["", "day01"]
+            children: ["", "day01","day02"]
         }
     ]
 }
